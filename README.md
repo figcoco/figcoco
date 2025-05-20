@@ -19,7 +19,7 @@
 
 <img src="https://github.com/figcoco/figcoco/blob/main/bonefire.gif" width="200" alt=""/>
 
-Current Project: <a href="https://github.com/figcoco/CubeGS">Dijkstra's shortest path visualizer.</a>
+Current Project: <a href="https://github.com/figcoco/CubeGS">A 3dgs Project.</a>
 
 
 </samp>
