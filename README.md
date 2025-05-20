@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" alt=""/>
+  <img src="https://github.com/figcoco/figcoco/blob/main/hollor_knight3.gif" width="200" alt=""/>
 
 </p>
 
@@ -17,7 +17,7 @@
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" alt=""/>
+<img src="https://github.com/figcoco/figcoco/blob/main/bonefire.gif" width="200" alt=""/>
 
 Current Project: <a href="https://github.com/figcoco/CubeGS">Dijkstra's shortest path visualizer.</a>
 
